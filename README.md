@@ -17,7 +17,7 @@ Let’s take a look at what a user story written from the perspective of a hirin
 
 AS A student
 I WANT to show my potential employer my portfolio
-SO THAT I can show them what I have done over time
+SO THAT I can show them my progress
 
 
 ## Installation
