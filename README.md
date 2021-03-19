@@ -1,4 +1,4 @@
-# 02 Advanced CSS: Portfolio
+# 02 Advanced CSS: Portfolio (UPDATED)
 
 ## Your Task
 
