@@ -203,7 +203,7 @@ main {
 
 .contact address a {
   color: var(--dark);
-  padding: 5px;
+  padding: 15px;
   text-decoration: none;
   font-size: 1.3rem;
   font-style: normal;
@@ -217,7 +217,7 @@ main {
 }
 
 .contact address a:hover {
-  background-size: 100% 88%;
+  background-size: 100% 100%;
   color: var(--light);
 }
 
@@ -313,5 +313,47 @@ main {
   .contact address {
     flex-direction: column;
     align-items: flex-start;
+    padding: 10px;
+    margin: auto;
   }
+  
+  .fa {
+  padding: 20px;
+  width: small;
+  margin: auto;
+  font-size: inherit;
+  text-rendering: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 0.5em;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+  justify-content: space-between;
+  justify-content: space-around;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  justify-content: space-between;
+  justify-content: space-around;
+}
+
+.fa-github {
+  background: #000000;
+  color: white;
+  justify-content: space-between;
+  justify-content: space-around;
+}
+
+.fa-android {
+  background: #3DDC84;
+  color: white;
+  justify-content: space-between;
+  justify-content: space-around;
+}
+  
 }
