@@ -25,7 +25,7 @@ https://lshim98.github.io/lshim.github.io/
 
 ## Mock-Up (Screenshot)
 
-
+![student-portfolio](https://user-images.githubusercontent.com/76062539/111877457-e458b900-8979-11eb-9b3c-219ebb31a7bd.jpg)
 
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
