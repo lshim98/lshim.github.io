@@ -214,6 +214,7 @@ main {
   transition: all 0.25s ease-in;
   margin: 0 0.2rem 0.1rem;
   display: inline-block;
+  margin: 30px;
 }
 
 .contact address a:hover {
@@ -318,7 +319,7 @@ main {
   } 
 }
   
-  .fa {
+.fa {
   padding: 20px;
   width: small;
   margin: auto;
