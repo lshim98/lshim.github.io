@@ -331,28 +331,28 @@ main {
 }
 
 .fa-google {
-  background: #dd4b39;
+  background: rgb(221,75,57);
   color: white;
   justify-content: space-between;
   justify-content: space-around;
 }
 
 .fa-linkedin {
-  background: #007bb5;
+  background: rgb(0,123,181);
   color: white;
   justify-content: space-between;
   justify-content: space-around;
 }
 
 .fa-github {
-  background: #000000;
+  background: rgb(0, 0, 0);
   color: white;
   justify-content: space-between;
   justify-content: space-around;
 }
 
 .fa-android {
-  background: #3DDC84;
+  background: rgb(61, 219, 134);
   color: white;
   justify-content: space-between;
   justify-content: space-around;
