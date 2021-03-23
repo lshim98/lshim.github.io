@@ -242,27 +242,6 @@ main {
 }
 
 
-.password-generator {
-  background-image: url("../assets/images/password.jpg");
-}
-
-.day-planner {
-  background-image: url("../assets/images/workday.jpg");
-}
-
-.quiz-generator {
-  background-image: url("../assets/images/codequiz.jpg");
-}
-
-.weather-report {
-  background-image: url("../assets/images/weather.jpg");
-}
-
-.beatzilla {
-  background-image: url("../assets/images/beatzilla.gif");
-}
-
-
 @media screen and (max-width: 980px) {
   header {
     padding: 0 0 10px 0;
