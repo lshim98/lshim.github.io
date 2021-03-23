@@ -390,7 +390,7 @@ main {
   justify-content: space-around;
 }
 
-#footer {
+footer {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
     text-align: center;
     padding: 10px;
