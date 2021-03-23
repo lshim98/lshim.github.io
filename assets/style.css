@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  padding: 0;
 }
 
 
@@ -61,13 +62,19 @@ header h1 {
     margin: -25px 15px 0px 0px;
     background-color: #ffffff;
     text-shadow: #353333;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
     font-weight: 200;
+}
+
+#about, #work, #contact {
+    display: flex;
+    flex-direction: row;
+    flex-basis: 75%;
 }
 
 #about-content {
     line-height: 1.2em;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
     font-size: 18px;
     color: black;
     padding: 15px;
@@ -321,6 +328,33 @@ main {
     padding: 10px;
     margin: auto;
   } 
+}
+
+#project1,
+#project2,
+#project3,
+#project4,
+#project5 {
+.flex-item,
+  .flex-item:first-child {
+    flex-basis: 100%;
+  }
+
+  .flex-item:first-child {
+    min-height: 150px;
+  }
+
+  .hero-banner {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .contact address {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    margin: auto;
+  }
 }
   
 .fa {
