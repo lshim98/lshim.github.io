@@ -126,7 +126,7 @@ main {
   background-blend-mode: soft-light;
   min-height: 30vh;
   color: var(--light);
-  padding: 2% 6%;
+  padding: 8%;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
