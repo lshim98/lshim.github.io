@@ -87,6 +87,11 @@ header h1 {
     background-position: right;
     }
 
+#text{
+    margin: auto;
+    padding: 2px;
+}
+
 nav {
   display: flex;
   flex-direction: row;
