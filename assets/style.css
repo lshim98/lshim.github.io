@@ -80,6 +80,8 @@ header h1 {
     padding-left: 3%;
     margin-left: 1%;
     border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .bg-dark {
@@ -89,6 +91,7 @@ header h1 {
 img {
     vertical-align: middle;
     border-style: none;
+    src: url(../assets/images/lshimprofile.jpg);
 }
 
 #about-content {
@@ -101,10 +104,7 @@ img {
     width: 75%;
     float: right;
     margin-bottom: 25px;
-    background-image: url(../assets/images/lshimprofile.jpg);
-    background-repeat: no-repeat;
-    background-position: right;
-    }
+}
 
 #text{
     margin: auto;
