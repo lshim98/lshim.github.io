@@ -107,7 +107,8 @@ img {
 
 #text{
     margin: auto;
-    padding: 2px;
+    padding: 10px;
+    width: 75%;
 }
 
 nav {
