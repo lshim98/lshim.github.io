@@ -83,8 +83,8 @@ header h1 {
     background-position: right;
 }
 
-.bg-dark {
-    background-color: #343a40!important;
+.bg-light {
+    background-color: rgba(238, 238, 247, 1)!important;
 }
 
 img {
