@@ -72,6 +72,25 @@ header h1 {
     text-align: bottom;
 }
 
+.img {
+    float: left;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 3%;
+    padding-left: 3%;
+    margin-left: 1%;
+    border-radius: 50%;
+}
+
+.bg-dark {
+    background-color: #343a40!important;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
 #about-content {
     line-height: 1.2em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
