@@ -81,6 +81,7 @@ header h1 {
     margin-left: auto;
     background-repeat: no-repeat;
     background-position: right;
+    border: 5px solid color: var(--tertiary);
 }
 
 .bg-light {
