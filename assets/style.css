@@ -31,7 +31,7 @@ h6 {
 }
 
 p {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  font-family: 'Saira';
   font-size: large;
   display: block;
   margin-block-start: 1em;
@@ -67,7 +67,7 @@ header h1 {
     margin: -25px 15px 0px 0px;
     background-color: #ffffff;
     text-shadow: #353333;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    font-family: 'Saira';
     font-weight: 200;
     text-align: bottom;
 }
@@ -96,7 +96,7 @@ img {
 
 #about-content {
     line-height: 1.2em;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    font-family: 'Saira', sans-serif;
     font-size: 18px;
     color: black;
     padding: 15px;
@@ -110,6 +110,7 @@ img {
     margin: auto;
     padding: 10px;
     width: 75%;
+    font-family: 'Saira';
 }
 
 nav {
