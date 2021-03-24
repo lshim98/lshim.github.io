@@ -15,7 +15,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+  font-family: 'Saira';
   color: var(--primary);
   background-color: var(--light);
   line-height: 1.5;
@@ -98,7 +98,7 @@ img {
 
 #about-content {
     line-height: 1.2em;
-    font-family: 'Saira', sans-serif;
+    font-family: 'Saira';
     font-size: 18px;
     color: black;
     padding: 15px;
@@ -425,7 +425,7 @@ main {
 }
 
 footer {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    font-family: 'Saira';
     text-align: center;
     padding: 10px;
 }
