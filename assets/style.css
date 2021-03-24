@@ -283,7 +283,7 @@ main {
 
 .contact address a:hover {
   background-size: 100% 100%;
-  color: var(--light);
+  color: var(--tertiary);
 }
 
 
